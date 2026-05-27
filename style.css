@@ -5,3 +5,18 @@ color: black;
 
 
 }
+
+.capa{
+   color:black
+    font: size 20px;
+
+}
+
+h1{
+    color: crimson;
+}
+
+#heroi{
+    display: flex;
+    padding-left: 200px;
+}
